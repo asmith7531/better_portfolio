@@ -1,0 +1,32 @@
+
+<style>
+
+    #titleText{
+        font-family:courier;
+        color:white;
+        font-weight: bold;
+        font-size:40px;
+    }
+    .titles{
+        font-family:courier;
+        color:white;
+        font-size:30px;
+        text-align:center;
+    }
+    .text{
+        font-family:courier;
+        color:white;
+        font-size:20px;
+        margin-left: 150px;
+        margin-right: 150px;
+        text-align:justify;
+    }
+    #image{
+        align-self: center;
+        
+    }
+    #yourTouch{
+        align-content:center;
+    }
+    body{ background-color:black;}
+</style>
